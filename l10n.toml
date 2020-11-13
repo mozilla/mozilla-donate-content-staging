@@ -1,2 +1,2 @@
-locales = []
+locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca",]
 paths = []
