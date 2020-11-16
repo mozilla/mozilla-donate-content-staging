@@ -48,7 +48,7 @@ msgid ""
 "providers. The vendors receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla. The vendors we use to send emails or other marketing materials "
 "to you aren’t permitted to use your information for their own direct marketing purposes. They also aren’t allowed to share your data with anyone else for direct marketing purposes. In addition, we "
 "will keep your personal data only for as long as we need it to provide you services, manage our business or as required by law or contract. You can find more information in the <a id=\"a1\">Privacy "
-"Policy</a> section titled <i>“What else should you know?” </i>Updating streamfield."
+"Policy</a> section titled <i>“What else should you know?”</i>"
 msgstr ""
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.779d4788-487a-47c3-8438-8804f8a0bcc5.content"
