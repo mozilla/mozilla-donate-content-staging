@@ -247,3 +247,7 @@ l10n = "locales/{locale}/pages/mozilla-donate.po"
 reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/faq.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
+
