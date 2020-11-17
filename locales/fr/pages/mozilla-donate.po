@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 32ffc0ec-97c6-4b64-84b6-a75db04ac31b\n"
 
 msgctxt "title"
-msgid "Donate now!"
-msgstr "Faire un don"
+msgid "Donate now"
+msgstr ""
 
 msgctxt "slug"
 msgid "mozilla-donate"
@@ -26,3 +26,7 @@ msgid ""
 msgstr ""
 "<b>Nous sommes fiers d’être une fondation à but non lucratif</b>, sans compromis. Des milliers de personnes comme vous nous aident à défendre la bonne santé d’Internet pour tous. Nous comptons sur "
 "vos dons pour achever notre mission et protéger le Web libre et ouvert. <b>Acceptez-vous de faire un don ?</b>"
+
+#~ msgctxt "title"
+#~ msgid "Donate now!"
+#~ msgstr "Faire un don"

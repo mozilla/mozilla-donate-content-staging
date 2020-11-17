@@ -7,7 +7,7 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: b070bd6f-d862-4574-9fd7-cf8c0a612621\n"
 
 msgctxt "title"
-msgid "Donate now!"
+msgid "Donate now"
 msgstr ""
 
 msgctxt "slug"
@@ -19,3 +19,9 @@ msgid ""
 "<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
 "keep the Web open and free. <b>Will you give today? Test</b>"
 msgstr ""
+"<b>Estamos orgullosos de ser una organización sin fines de lucro</b>, no corporativos y no comprometidos. Miles de personas como tú nos ayudan a defender un Internet saludable para todos. Dependemos"
+" de donaciones para llevar a cabo nuestra misión de mantener la web abierta y libre. <b>¿Harías hoy una donación?</b>"
+
+#~ msgctxt "title"
+#~ msgid "Donate now!"
+#~ msgstr "Donar ahora"

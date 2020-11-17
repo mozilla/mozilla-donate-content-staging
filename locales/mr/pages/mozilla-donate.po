@@ -7,7 +7,7 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 77fc6543-c2cd-4d2f-b196-0d06ca9bc933\n"
 
 msgctxt "title"
-msgid "Donate now!"
+msgid "Donate now"
 msgstr ""
 
 msgctxt "slug"
