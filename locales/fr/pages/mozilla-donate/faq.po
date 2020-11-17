@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-13 13:13:03.448281+00:00\n"
-"PO-Revision-Date: 2020-11-16 09:12+0000\n"
+"PO-Revision-Date: 2020-11-17 14:45+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Vous trouverez ci-dessous les questions les plus récurrentes sur les do
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
 msgid "What are the ways I can make a donation?"
-msgstr ""
+msgstr "Quels sont les différents moyens de faire une donation ?"
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.content"
 msgid ""
