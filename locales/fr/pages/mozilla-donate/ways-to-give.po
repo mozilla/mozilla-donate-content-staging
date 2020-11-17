@@ -1,0 +1,301 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-11-17 16:53:11.953359+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 914bbb2f-1e9f-4529-82a8-7a1d9b9e30e9\n"
+
+msgctxt "title"
+msgid "Ways to Give"
+msgstr ""
+
+msgctxt "call_to_action_text"
+msgid "Donate now"
+msgstr ""
+
+msgctxt "body.a228c1d1-b8f4-44de-bd5e-ee0e20ee8bb0"
+msgid "Credit / Debit and PayPal"
+msgstr ""
+
+msgctxt "body.d4e64a49-291c-47ef-a5c5-8efd7f98d549"
+msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
+msgstr ""
+
+msgctxt "body.572e3698-2e50-4604-92b7-685c2c7b630a"
+msgid "Bank Transfer / SEPA"
+msgstr ""
+
+msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
+msgid "We accept donations in Euros through Single European Payment Area (SEPA) transfer, and British Pounds through BACS transfer."
+msgstr ""
+
+msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
+msgid "Please remember that donations are deductible for U.S. income tax purposes only."
+msgstr ""
+
+msgctxt "body.837537de-3656-45f6-b116-0ae8ae8a8b36"
+msgid "If your bank requests our physical address, it is 331 E. Evelyn Ave, Mountain View, CA 94041 USA."
+msgstr ""
+
+msgctxt "body.4f307332-fc9a-423d-9846-334fc4653f50"
+msgid "Euros"
+msgstr ""
+
+msgctxt "body.0252b812-393d-423c-8475-b78b6a8bbce4"
+msgid ""
+"<b>Account Currency:</b> Euro (EUR)<br/><b>Receiving Bank (Pay to):</b> Standard Chartered Bank<br/><b>City &amp; Country/Region:</b> Frankfurt, Germany<br/><b>SWIFT/BIC Code:</b> "
+"SCBLDEFX<br/><b>Beneficiary Name (For credit to):</b> SVB-Mozilla Foundation<br/><b>IBAN:</b> DE67512305000500136802"
+msgstr ""
+
+msgctxt "body.26a9edd5-f3cc-435a-b5a2-90c9726be005"
+msgid "British Pound Sterling"
+msgstr ""
+
+msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+msgid ""
+"<b>Account Currency:</b> British Pound Sterling (GBP)<br/><b>Receiving Bank (Pay to):</b> National Westminster Bank<br/><b>City &amp; Country/Region:</b> London, United Kingdom<br/><b>Bank Sort "
+"Code:</b> 60-00-04<br/><b>Account Number (8 digits):</b> 10017496<br/><b>Beneficiary Name (For credit to):</b> SVB RE Mozilla Foundation"
+msgstr ""
+
+msgctxt "body.e0edbbc0-df86-4e17-bac4-0b70ce100bfd"
+msgid "<b>SWIFT/BIC Code:</b> NWBKGB2L<br/><b>IBAN:</b> GB77NWBK60000410017496"
+msgstr ""
+
+msgctxt "body.457214e8-fe69-4302-9f36-57298896b4d5"
+msgid "Check (via postal service)"
+msgstr ""
+
+msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+msgid ""
+"Please send a check <b>including your email address on the memo line</b>, and payable (payee) to “Mozilla Foundation.” Please note that the Mozilla Foundation can only accept checks in US dollars "
+"drawn on a US bank. Please do <b>not</b> send cash."
+msgstr ""
+
+msgctxt "body.49ec918d-de16-4610-9c10-c93eac5e3f24"
+msgid "Mozilla Foundation attn: Donor Care<br/>2 Harrison Street, #175<br/>San Francisco CA 94105<br/>USA"
+msgstr ""
+
+msgctxt "body.973d8665-370d-44cd-9ca6-84b6fd844b5d"
+msgid "Currencies"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "Select your currency to make a secure online donation:"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "USD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AED د.إ.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ALL L"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AUD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ARS $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "AZN ₼"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BAM KM"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BDT ৳"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "BRL R$"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CAD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CHF Fr."
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CLP $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CNY ¥"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "CZK Kč"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "DKK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "DZD د.ج.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "EGP ج.م.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "EUR €"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GBP £"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GEL ₾"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "GTQ Q"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HKD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HRK kn"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "HUF Ft"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "IDR Rp"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ILS ₪"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "INR ₹"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "JPY ¥"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "KRW ₩"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "LAK ₭"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "LBP ل.ل.‎"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MAD MAD"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MYR RM"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "MXN $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "NOK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "NZD $"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "PHP ₱"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "PLN zł"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "QAR ر.ق.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "RON lei"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "RUB ₽"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SAR ر.س.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SEK kr"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "SGD $SG"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "THB ฿"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "TRY ₺"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "TWD NT$"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "UAH ₴"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "YER ر.ي.‏"
+msgstr ""
+
+msgctxt "body.b3b3d4cb-65c9-4348-9a4b-c767f6951528"
+msgid "ZAR R"
+msgstr ""
+
+msgctxt "body.4f1ac146-7985-426a-9302-7a2a4ec8bf01"
+msgid "Bitcoin"
+msgstr ""
+
+msgctxt "body.3c2d4b1b-ff79-4a49-9225-36db13f7e600"
+msgid ""
+"The Mozilla Foundation is a California non-profit corporation exempt from United States federal income taxation under IRC 501(c)(3) and a public charity classified under IRC sections 170(b)(1)(A) "
+"and 509(a)(1). Bitcoin donations Mozilla receives are considered charitable contributions under U.S. federal tax laws, to be used in its discretion for its charitable purposes. Because the IRS has "
+"indicated that it will treat bitcoin as property for U.S. tax purposes (see IRS Notice 2014-21), donations of bitcoin may be subject to special rules as to the amount of your charitable deduction, "
+"the documentation that must be provided to claim a tax deduction, or other matters."
+msgstr ""
+
+msgctxt "body.3c2d4b1b-ff79-4a49-9225-36db13f7e600"
+msgid "Learn more about bitcoin donations <a id=\"a1\">here</a>. To donate Bitcoins, <a id=\"a2\">please visit this link.</a>"
+msgstr ""
