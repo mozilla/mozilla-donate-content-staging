@@ -22,7 +22,7 @@ msgid "Below are the most frequently asked questions about donating to the Mozil
 msgstr ""
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
-msgid "What are the ways I can donate?"
+msgid "What are the ways I can make a donation?"
 msgstr ""
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.content"

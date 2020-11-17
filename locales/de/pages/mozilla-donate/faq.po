@@ -23,8 +23,8 @@ msgid "Below are the most frequently asked questions about donating to the Mozil
 msgstr "Hier finden Sie die am häufigsten gestellten Fragen zu Spenden an die Mozilla Foundation?"
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
-msgid "What are the ways I can donate?"
-msgstr "Wie kann ich spenden?"
+msgid "What are the ways I can make a donation?"
+msgstr ""
 
 msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.content"
 msgid ""
@@ -333,3 +333,7 @@ msgstr ""
 "Ja! Die Mozilla Foundation ist sowohl bei <a id=\"a1\">eBay for Charity</a> als auch beim <a id=\"a2\"> Amazon-Smile-Programm </a> registriert. Bei eBay können Sie uns als Ihren Favoriten hinzufügen"
 " Kaufen Sie für wohltätige Zwecke Artikel, bei denen ein Teil des Verkaufs der Mozilla Foundation zugute kommt, oder verkaufen Sie Ihre eigenen Artikel und spenden Sie einen Prozentsatz des "
 "Verkaufspreises zugunsten der Mozilla Foundation. Denken Sie bei Amazon.com daran, alle Ihre Einkäufe zu starten, indem Sie unter <a id=\"a3\">smile.amazon.com</a> beginnen."
+
+#~ msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
+#~ msgid "What are the ways I can donate?"
+#~ msgstr "Wie kann ich spenden?"
