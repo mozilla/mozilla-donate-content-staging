@@ -7,7 +7,7 @@ locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "da", "de", "dsb",
 [[paths]]
 reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
-locales = [ "fr", "de",]
+locales = [ "fr", "de", "es",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/ways-to-give.pot"
