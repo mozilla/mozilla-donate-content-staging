@@ -1,26 +1,31 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2020-11-17 16:53:11.953359+00:00\n"
+"PO-Revision-Date: 2020-11-17 16:57+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 914bbb2f-1e9f-4529-82a8-7a1d9b9e30e9\n"
 
 msgctxt "title"
 msgid "Ways to Give"
-msgstr ""
+msgstr "Les différentes façons de faire un don"
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
-msgstr ""
+msgstr "Faire un don"
 
 msgctxt "body.a228c1d1-b8f4-44de-bd5e-ee0e20ee8bb0"
 msgid "Credit / Debit and PayPal"
-msgstr ""
+msgstr "Carte bancaire ou PayPal"
 
 msgctxt "body.d4e64a49-291c-47ef-a5c5-8efd7f98d549"
 msgid "<a id=\"a1\">Go to this link</a> to make a secure online donation right now."
-msgstr ""
+msgstr "<a id=\"a1\">Consultez ce lien</a> pour faire un don en ligne de façon sécurisée, sans attendre."
 
 msgctxt "body.572e3698-2e50-4604-92b7-685c2c7b630a"
 msgid "Bank Transfer / SEPA"
