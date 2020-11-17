@@ -15,10 +15,6 @@ msgctxt "title"
 msgid "Donor FAQ"
 msgstr "Questions fréquentes sur les dons"
 
-msgctxt "slug"
-msgid "faq"
-msgstr ""
-
 msgctxt "call_to_action_text"
 msgid "Donate now"
 msgstr "Faire un don"

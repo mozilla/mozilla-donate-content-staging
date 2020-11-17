@@ -10,10 +10,6 @@ msgctxt "title"
 msgid "Donor FAQ"
 msgstr "FAQ für Spender?"
 
-msgctxt "slug"
-msgid "faq"
-msgstr ""
-
 msgctxt "call_to_action_text"
 msgid "Donate now"
 msgstr "Jetzt spenden!→"
