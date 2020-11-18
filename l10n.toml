@@ -14,3 +14,8 @@ reference = "templates/pages/mozilla-donate/ways-to-give.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/ways-to-give.po"
 locales = [ "de", "es", "fr",]
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/fighting-back.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/fighting-back.po"
+locales = [ "de", "es", "fr",]
+

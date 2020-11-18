@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-11-18 10:18:31.997736+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4555eec4-4511-4151-b0e2-d575de79b7f2\n"
+
+msgctxt "title"
+msgid "Fighting Back Against Misinformation"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Take action to demand that tech companies address online misinformation."
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"We are proudly non-profit, non-corporate and non-compromised. Thousands of people like you help us stand up for an open Web for all. We rely on donations to carry out our mission to keep the Web "
+"open and free. <b>Will you give today? Test</b>"
+msgstr ""
