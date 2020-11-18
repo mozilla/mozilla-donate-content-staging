@@ -15,8 +15,12 @@ msgctxt "title"
 msgid "Donate now"
 msgstr "לתרום כעת"
 
-msgctxt "slug"
-msgid "mozilla-donate"
+msgctxt "seo_title"
+msgid "Page title test"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Page search description test"
 msgstr ""
 
 msgctxt "intro"
