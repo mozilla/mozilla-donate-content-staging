@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 88c62131-14de-4e8a-941c-650772246a25\n"
 
 msgctxt "title"
-msgid "Donor FAQ"
-msgstr "FAQ für Spender?"
+msgid "Donor FAQ test"
+msgstr ""
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
@@ -333,3 +333,7 @@ msgstr ""
 #~ msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
 #~ msgid "What are the ways I can donate?"
 #~ msgstr "Wie kann ich spenden?"
+
+#~ msgctxt "title"
+#~ msgid "Donor FAQ"
+#~ msgstr "FAQ für Spender?"

@@ -12,8 +12,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 3ade6f85-5f3e-4d5f-b20a-61a415a26a9d\n"
 
 msgctxt "title"
-msgid "Donor FAQ"
-msgstr "Questions fréquentes sur les dons"
+msgid "Donor FAQ test"
+msgstr ""
 
 msgctxt "call_to_action_text"
 msgid "Donate now"
@@ -348,6 +348,10 @@ msgstr ""
 "Oui ! La Fondation Mozilla est inscrite à la fois au programme <a id=\"a1\">eBay for Charity</a> et à <a id=\"a2\">Amazon Smile</a>. Sur eBay, vous pouvez nous ajouter comme votre organisme "
 "caritatif favori, et acheter des articles dont une partie de la vente sera reversée à la Fondation Mozilla, ou bien vendre vos propres articles et reverser un pourcentage du prix de vente à la "
 "Fondation Mozilla. Sur Amazon.com, n’oubliez pas d’effectuer tous vos achats en passant par <a id=\"a3\">smile.amazon.com</a>."
+
+#~ msgctxt "title"
+#~ msgid "Donor FAQ"
+#~ msgstr "Questions fréquentes sur les dons"
 
 #~ msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
 #~ msgid "What are the ways I can donate?"
