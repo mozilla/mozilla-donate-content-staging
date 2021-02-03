@@ -19,3 +19,8 @@ reference = "templates/pages/mozilla-donate/fighting-back.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/fighting-back.po"
 locales = [ "de", "es", "fr",]
 
+[[paths]]
+reference = "templates/pages/mozilla-donate/test-visibility.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/test-visibility.po"
+locales = [ "fr",]
+

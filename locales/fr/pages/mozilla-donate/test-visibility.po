@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-02-03 09:10:23.568213+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3d96d0b3-7718-4b7b-a284-c938af3762ea\n"
+
+msgctxt "title"
+msgid "Test visibility"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Tets"
+msgstr ""
+
+msgctxt "intro"
+msgid "Test"
+msgstr ""
