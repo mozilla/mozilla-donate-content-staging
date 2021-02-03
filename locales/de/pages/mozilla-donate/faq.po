@@ -334,10 +334,10 @@ msgstr ""
 " Kaufen Sie für wohltätige Zwecke Artikel, bei denen ein Teil des Verkaufs der Mozilla Foundation zugute kommt, oder verkaufen Sie Ihre eigenen Artikel und spenden Sie einen Prozentsatz des "
 "Verkaufspreises zugunsten der Mozilla Foundation. Denken Sie bei Amazon.com daran, alle Ihre Einkäufe zu starten, indem Sie unter <a id=\"a3\">smile.amazon.com</a> beginnen."
 
-#~ msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
-#~ msgid "What are the ways I can donate?"
-#~ msgstr "Wie kann ich spenden?"
-
 #~ msgctxt "title"
 #~ msgid "Donor FAQ"
 #~ msgstr "FAQ für Spender?"
+
+#~ msgctxt "body.bc987af6-f159-4fcf-ba32-a92bdcfa5430.items.0181a606-cedd-4311-8cbe-39d4d6271279.title"
+#~ msgid "What are the ways I can donate?"
+#~ msgstr "Wie kann ich spenden?"
