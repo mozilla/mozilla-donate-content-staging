@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-02-03 11:04:56.701975+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8cd07d2d-561d-4383-9fde-77082c83a9f2\n"
+
+msgctxt "title"
+msgid "Test dropping locales"
+msgstr ""
+
+msgctxt "intro"
+msgid "Test"
+msgstr ""
