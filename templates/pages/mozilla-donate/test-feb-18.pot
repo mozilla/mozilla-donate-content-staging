@@ -9,6 +9,10 @@ msgctxt "title"
 msgid "Test Feb 18"
 msgstr ""
 
+msgctxt "lead_text"
+msgid "test"
+msgstr ""
+
 msgctxt "intro"
 msgid "test"
 msgstr ""

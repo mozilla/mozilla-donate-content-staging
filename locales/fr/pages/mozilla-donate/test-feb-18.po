@@ -10,6 +10,10 @@ msgctxt "title"
 msgid "Test Feb 18"
 msgstr "Test fr"
 
+msgctxt "lead_text"
+msgid "test"
+msgstr ""
+
 msgctxt "intro"
 msgid "test"
 msgstr ""

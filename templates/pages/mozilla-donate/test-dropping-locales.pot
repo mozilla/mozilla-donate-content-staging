@@ -9,6 +9,10 @@ msgctxt "title"
 msgid "Test dropping locales"
 msgstr ""
 
+msgctxt "lead_text"
+msgid "Test"
+msgstr ""
+
 msgctxt "intro"
 msgid "Test"
 msgstr ""
