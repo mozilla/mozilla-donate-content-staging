@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-31 12:33:31.701267+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b0e61973-4821-4fc5-93bc-bfe2ee09d314\n"
+
+msgctxt "title"
+msgid "Testing wagtail localize"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "This is a test"
+msgstr ""
+
+msgctxt "intro"
+msgid "Just testing"
+msgstr ""

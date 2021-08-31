@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-31 12:33:31.732298+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Page published first"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Let’s see how this one goes"
+msgstr ""
+
+msgctxt "intro"
+msgid "1. Publish the page<br/>2. Set page privacy"
+msgstr ""

@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-31 12:33:31.229104+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 21a6219f-16d6-4053-8854-eb0fbf85656f\n"
+
+msgctxt "title"
+msgid "Donate now"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Page title test"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Page search description test"
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"<b>We are proudly non-profit</b>, non-corporate and non-compromised. Thousands of people like you help us stand up for a healthy internet for all. We rely on donations to carry out our mission to "
+"keep the Web open and free. <b>Will you give today? Test</b>"
+msgstr ""

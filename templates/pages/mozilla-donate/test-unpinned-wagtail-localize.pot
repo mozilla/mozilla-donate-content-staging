@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-31 12:33:31.563863+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Test unpinned wagtail-localize"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Testing there’s no armaggeddon"
+msgstr ""
+
+msgctxt "intro"
+msgid "Are we still alive? Yes we are."
+msgstr ""

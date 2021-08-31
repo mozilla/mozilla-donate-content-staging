@@ -1,46 +1,121 @@
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "es-MX", "es-XL", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
 [[paths]]
+reference = "templates/pages/mozilla-donate.pot"
+l10n = "locales/{locale}/pages/mozilla-donate.po"
+locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "es-MX", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
+
+[[paths]]
 reference = "templates/pages/mozilla-donate/test-dropping-locales.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/test-dropping-locales.po"
 locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "es-MX", "es-XL", "et", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
 
 [[paths]]
-reference = "templates/pages/mozilla-donate.pot"
-l10n = "locales/{locale}/pages/mozilla-donate.po"
-locales = [ "ach", "ar", "ast", "az", "bn", "bs", "ca", "cs", "cy", "da", "de", "dsb", "el", "en-AU", "en-CA", "en-GB", "en-IN", "en-NZ", "es", "et", "fr", "fy-NL", "gu-IN", "he", "hi-IN", "hr", "hsb", "hu", "ia", "id", "it", "ja", "ka", "kab", "ko", "lg", "lo", "lv", "ml", "mr", "nb-NO", "nl", "nn-NO", "pa-IN", "pl", "pt-BR", "pt-PT", "ro", "ru", "sk", "sl", "sq", "sv-SE", "ta", "te", "th", "tr", "uk", "uz", "zh-CN", "zh-TW",]
-
-[[paths]]
 reference = "templates/pages/mozilla-donate/faq.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/faq.po"
-locales = [ "de", "es",]
+locales = [ "de", "es", "es-MX",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/fighting-back.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/fighting-back.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "es-MX", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/ways-to-give.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/ways-to-give.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "es-MX", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/help.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/help.po"
-locales = [ "es",]
+locales = [ "es", "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/its-pi-day.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/its-pi-day.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/thunderbird.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/thunderbird.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/2020_mofo_annual-fund-general_global_all.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/2020_mofo_annual-fund-general_global_all.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/datenschutz-und-sicherheit-bei-der-nutzung-von-videoanrufen.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/datenschutz-und-sicherheit-bei-der-nutzung-von-videoanrufen.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/test-unpinned-wagtail-localize.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/test-unpinned-wagtail-localize.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/test.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/test.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/faq-copy.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/faq-copy.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/testing-wagtail-localize.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/testing-wagtail-localize.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/page-published-first.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/page-published-first.po"
+locales = [ "es-MX",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/test-visibility.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/test-visibility.po"
-locales = [ "fr",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/test-march-10.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/test-march-10.po"
-locales = [ "fr",]
+locales = [ "es-MX", "fr",]
 
 [[paths]]
 reference = "templates/pages/mozilla-donate/test-feb-18.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/test-feb-18.po"
-locales = [ "fr",]
+locales = [ "es-MX", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/test-march-10.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/test-march-10.po"
+locales = [ "es-MX", "fr",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/test-copy-published-2.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/test-copy-published-2.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/copy-not-published.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/copy-not-published.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/may-12-21.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/may-12-21.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/may-12-21-7.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/may-12-21-7.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/thunderbird-9.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/thunderbird-9.po"
+locales = [ "es-MX",]
+
+[[paths]]
+reference = "templates/pages/mozilla-donate/may-12-21-8.pot"
+l10n = "locales/{locale}/pages/mozilla-donate/may-12-21-8.po"
+locales = [ "es-MX",]
 

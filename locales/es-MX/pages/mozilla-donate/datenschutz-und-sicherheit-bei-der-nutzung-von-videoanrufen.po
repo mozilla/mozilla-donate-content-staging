@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-08-31 12:33:31.532745+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9c980066-05ce-40cd-b3c7-0a0c4d7467fb\n"
+
+msgctxt "title"
+msgid "Datenschutz und Sicherheit bei der Nutzung von Videoanrufen"
+msgstr ""
+
+msgctxt "lead_text"
+msgid "Danke, dass Sie Ihre Meinung über unsere Kampagne mit uns teilen."
+msgstr ""
+
+msgctxt "intro"
+msgid "Wir werden uns bald mit den nächsten Schritten melden – und wie Sie sich noch einbringen können."
+msgstr ""
+
+msgctxt "intro"
+msgid ""
+"Als  gemeinnützige Organisation sind wir auf Spenden angewiesen, um  unsere  Arbeit in diesen wichtigen Zeiten fortsetzen zu können. Wir  würden uns  über eine kleine Spende von Ihnen freuen, damit "
+"wir uns  weiterhin für  den Schutz Ihrer Daten einsetzen und Sie die Kontrolle  über Ihre  Erfahrungen online behalten können. Vielen Dank!"
+msgstr ""
