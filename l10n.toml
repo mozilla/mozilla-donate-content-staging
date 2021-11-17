@@ -35,11 +35,6 @@ l10n = "locales/{locale}/pages/mozilla-donate/its-pi-day.po"
 locales = [ "es-MX",]
 
 [[paths]]
-reference = "templates/pages/mozilla-donate/thunderbird.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/thunderbird.po"
-locales = [ "es-MX",]
-
-[[paths]]
 reference = "templates/pages/mozilla-donate/2020_mofo_annual-fund-general_global_all.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/2020_mofo_annual-fund-general_global_all.po"
 locales = [ "es-MX",]
@@ -107,11 +102,6 @@ locales = [ "es-MX",]
 [[paths]]
 reference = "templates/pages/mozilla-donate/may-12-21-7.pot"
 l10n = "locales/{locale}/pages/mozilla-donate/may-12-21-7.po"
-locales = [ "es-MX",]
-
-[[paths]]
-reference = "templates/pages/mozilla-donate/thunderbird-9.pot"
-l10n = "locales/{locale}/pages/mozilla-donate/thunderbird-9.po"
 locales = [ "es-MX",]
 
 [[paths]]
